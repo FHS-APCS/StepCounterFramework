@@ -1,0 +1,32 @@
+filename: comfortableWalk.csv
+- steps: 70
+- phone_model: iphone 6s
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: left_side_pocket
+- data_log_freq: 100
+- collection_supervisor: Andrew Wang
+- date: 1/10/18
+***********************************
+- filename: rightHandWalk.csv
+- steps: 70
+- phone_model: iphone 6s
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Andrew Wang
+- date: 1/10/18
+***********************************
+- filename: rightHandJog.csv
+- steps: 70
+- phone_model: iphone 6s
+- subject_age: 17
+- subject_gender: M
+- gait: jog
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Andrew Wang
+- date: 1/10/18

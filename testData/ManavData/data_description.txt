@@ -1,0 +1,1 @@
+- filename: 100_steps_phone_in_right_hand.csv- steps: 100- phone_model: iPhone 7 - subject_age: 17 - subject_gender: M- gait: comfortable_walk- phone_loaction: right_hand - data_log_freq: 100- collection_supervisor: Manav - date: 1/10/18 

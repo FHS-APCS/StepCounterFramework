@@ -1,0 +1,32 @@
+- filename: 100StepsLeftSidePocketMixedWalking.csv
+- steps: 100
+- phone_model: PH-1
+- subject_age: 18
+- subject_gender: M
+- gait: mixed_walking
+- phone_location: left_side_pocket
+- data_log_freq: 20
+- collection_supervisor: Nathan
+- date: 1/10/18
+***********************************
+- filename: 106StepsRightSidePocketMixedJogging.csv
+- steps: 106
+- phone_model: PH-1
+- subject_age: 18
+- subject_gender: M
+- gait: mixed_jogging
+- phone_location: right_side_pocket
+- data_log_freq: 20
+- collection_supervisor: Nathan
+- date: 1/10/18
+***********************************
+- filename: 104StepsRightHandSprint.csv
+- steps: 104
+- phone_model: PH-1
+- subject_age: 18
+- subject_gender: M
+- gait: sprint
+- phone_location: right_hand
+- data_log_freq: 20
+- collection_supervisor: Nathan
+- date: 1/10/18

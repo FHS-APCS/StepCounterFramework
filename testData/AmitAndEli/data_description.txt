@@ -1,0 +1,10 @@
+- filename: 100stepwalking.csv
+- steps: 100
+- phone_model: iphone 7 plus
+- subject_age: 17
+- subject_gender: M
+- gait: fast_walk
+- phone_location: left_side_pocket
+- data_log_freq: 100
+- collection_supervisor: Eli_and_Amit
+- date: 1/10/18

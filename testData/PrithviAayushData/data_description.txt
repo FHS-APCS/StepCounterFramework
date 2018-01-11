@@ -1,0 +1,32 @@
+- filename: PrithviAayushdatafile1.csv
+- steps: 100
+- phone_model: samsung galaxy s8
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable-walk
+- phone_location: right_side_pocket
+- data_log_freq: 50
+- collection_supervisor: Prithvi Kannan
+- date: 1/11/18
+***********************************
+- filename: PrithviAayushdatafile2.csv
+- steps: 100
+- phone_model: samsung galaxy s8
+- subject_age: 17
+- subject_gender: M
+- gait: jog
+- phone_location: right_side_pocket
+- data_log_freq: 50
+- collection_supervisor: Prithvi Kannan
+- date: 1/11/18
+***********************************
+- filename: PrithviAayushdatafile1.csv
+- steps: 100
+- phone_model: samsung galaxy s8
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable-walk
+- phone_location: right_rear_pocket
+- data_log_freq: 50
+- collection_supervisor: Prithvi Kannan
+- date: 1/11/18

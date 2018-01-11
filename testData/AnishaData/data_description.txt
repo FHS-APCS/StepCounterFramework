@@ -1,0 +1,13 @@
+
+- filename: frontwalk.csv
+- steps: 100
+- phone_model: iphone 7
+- subject_age: 16
+- subject_gender: F
+- gait: comfortable_walk
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Anisha Bhat
+- date: 1/10/17
+******************************************************
+

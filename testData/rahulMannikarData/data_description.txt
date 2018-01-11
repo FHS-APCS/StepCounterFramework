@@ -1,0 +1,32 @@
+- filename: comfortable_walk_rightSide.csv
+- steps: 100
+- phone_model: iPhone 7
+- subject_age: 16
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_side_pocket
+- data_log_freq: 100
+- collection_supervisor: Rahul
+- date: 1/10/18
+**********************************************
+- filename: comfortable_walk_rightHand.csv
+- steps: 100
+- phone_model: iPhone 7
+- subject_age: 16
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Rahul
+- date: 1/10/18
+**********************************************
+- filename: slow_walk_rightSide.csv
+- steps: 100
+- phone_model: iPhone 7
+- subject_age: 16
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_side_pocket
+- data_log_freq: 100
+- collection_supervisor: Rahul
+- date: 1/10/18

@@ -1,0 +1,39 @@
+- filename: left_back_pocket.csv
+- steps: 100
+- phone_model: iphone 7
+- subject_age: 17
+- gait: comfortable-walk
+- phone_location: left_rear_pocket
+- data_log_freq: 100
+- collection_supervisor: Nikhil_Krishna
+- date: 1/11/18
+***********************************
+- filename: left_side_pocket.csv
+- steps: 100
+- phone_model: iphone 7
+- subject_age: 17
+- gait: comfortable-walk
+- phone_location: left_side_pocket
+- data_log_freq: 100
+- collection_supervisor: Nikhil_Krishna
+- date: 1/11/18
+***********************************
+- filename: right_back_pocket.csv
+- steps: 100
+- phone_model: iphone 7
+- subject_age: 17
+- gait: comfortable-walk
+- phone_location: left_rear_pocket
+- data_log_freq: 100
+- collection_supervisor: Nikhil_Krishna
+- date: 1/11/18
+***********************************
+- filename: right_side_pocket.csv
+- steps: 100
+- phone_model: iphone 7
+- subject_age: 17
+- gait: comfortable-walk
+- phone_location: left_rear_pocket
+- data_log_freq: 100
+- collection_supervisor: Nikhil_Krishna
+- date: 1/11/18

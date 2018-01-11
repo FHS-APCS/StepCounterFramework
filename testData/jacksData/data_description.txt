@@ -1,0 +1,32 @@
+- filename:60sprint.csv.xlsx
+- steps: 60
+- phone_model: iphone 8
+- subject_age: 17
+- subject_gender: M
+- gait: sprint
+- phone_location:right_side_pocket
+- data_log_freq: 100
+- collection_supervisor: jack
+- date: 1/11/17
+***********************************
+- filename:80jog.csv.xlsx
+- steps: 80
+- phone_model: iphone 8
+- subject_age: 17
+- subject_gender: M
+- gait: jog
+- phone_location:right_side_pocket
+- data_log_freq: 100
+- collection_supervisor: jack
+- date: 1/11/17
+***********************************
+- filename:walk80.csv.xlsx
+- steps: 80
+- phone_model: iphone 8
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location:right_side_pocket
+- data_log_freq: 100
+- collection_supervisor: jack
+- date: 1/11/17

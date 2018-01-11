@@ -1,0 +1,21 @@
+-filename: 101StepsInHandWalking.csv
+-steps: 101
+-phone_model: essential
+-subject_age: 16
+-subject_gender: F
+-gait: comfortable_walk
+-phone_location: right-hand
+-data_log_freq: 100
+-collection_supervisor: June
+-date: 1/10/18
+***********************************
+-filename: 103StepsInHandFastWalking.csv
+-steps: 103
+-phone_model: essential
+-subject_age: 13
+-subject_gender: F
+-gait: fast_walk
+-phone_location: left_hand
+-data_log_freq: 100
+-collection_supervisor: June
+-date: 1/10/18

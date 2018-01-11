@@ -1,0 +1,11 @@
+- filename: right_rear_pocket_data.csv
+- steps: 100
+- phone_model: iPhone 5s
+- subject_age: 17
+- subject_gender: F
+- gait: comfortable_walk
+- phone_location: right_rear_pocket
+- data_log_freq: 100
+- collection_supervisor: Hikari
+- date: 1/10/18
+***********************************

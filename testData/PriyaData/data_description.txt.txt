@@ -1,0 +1,33 @@
+- filename: priya_jogging_righthand.csv
+- steps: 100
+- phone_model: iPhone 6s
+- subject_age: 17
+- subject_gender: F
+- gait: jog
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Priya
+- date: 1/10/18
+***********************
+- filename: priya_speedwalking_lefthand.csv
+- steps: 100
+- phone_model: iPhone 6s
+- subject_age: 17
+- subject_gender: F
+- gait: fast walk
+- phone_location: left_hand
+- data_log_freq: 100
+- collection_supervisor: Priya
+- date: 1/10/18
+***********************
+- filename: priya_comfortwalk_rightankle.csv
+- steps: 100
+- phone_model: iPhone 6s
+- subject_age: 17
+- subject_gender: F
+- gait: comfortable_walk
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Priya
+- date: 1/10/18
+************************

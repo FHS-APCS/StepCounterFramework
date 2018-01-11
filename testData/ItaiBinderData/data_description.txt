@@ -1,0 +1,11 @@
+- filename: 100_Steps_IB.csv
+- steps: 100
+- phone_model: samsung lg g5
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable-walk
+- phone_location: right_side_pocket
+- data_log_freq: 100
+- collection_supervisor: Itai
+- date: 1/10/18
+

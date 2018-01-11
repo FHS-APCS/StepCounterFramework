@@ -1,0 +1,11 @@
+- filename: data1.csv
+- steps: 80
+- phone_model: iPhone 5
+- subject_age: 17
+- subject_gender: F
+- gait: fast-walk
+- phone_location: right hand
+- data_log_freq: 50
+- collection_supervisor: Niyati
+- date: 1/10/18
+**************************************

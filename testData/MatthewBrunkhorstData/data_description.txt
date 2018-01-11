@@ -1,0 +1,32 @@
+- filename: NormalWalking.csv
+- steps: 100
+- phone_model: iphone 8
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_hand
+- data_log_freq: 1.538
+- collection_supervisor: Matthew
+- date: 1/10/18
+***********************************
+- filename: FastWalking.csv
+- steps: 100
+- phone_model: iphone 8
+- subject_age: 17
+- subject_gender: M
+- gait: fast_walk
+- phone_location: left_hand
+- data_log_freq: 1.923
+- collection_supervisor: Matthew
+- date: 1/10/18
+***********************************
+- filename: SlowWalking.csv
+- steps: 100
+- phone_model: iphone 8
+- subject_age: 17
+- subject_gender: M
+- gait: slow_walk
+- phone_location: right_hand
+- data_log_freq: 1.282
+- collection_supervisor: Matthew
+- date: 1/10/18

@@ -1,0 +1,32 @@
+- filename: Right_Hand_Comfortable_Walk
+- steps: 100
+- phone_model: samsung galaxy s8+
+- subject_age: 16
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Isaac_Jacobson
+- date: 1/10/18
+*******************************************
+- filename: Left_Hand_Comfortable_Walk
+- steps: 100
+- phone_model: samsung galaxy s8+
+- subject_age: 16
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: left_hand
+- data_log_freq: 100
+- collection_supervisor: Isaac_Jacobson
+- date: 1/10/18
+*******************************************
+- filename: Right_Hand_Sprint
+- steps: 100
+- phone_model: samsung galaxy s8+
+- subject_age: 16
+- subject_gender: M
+- gait: sprint
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Isaac_Jacobson
+- date: 1/10/18

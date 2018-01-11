@@ -1,0 +1,21 @@
+- filename: 100StepsLeftHand.csv
+- steps: 100
+- phone_model: Samsung Galaxy S8
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: left_hand
+- data_log_freq: 50
+- collection_supervisor: Lance Matt
+- date: 1/10/18
+***********************************
+- filename: 100StepsRightHand.csv
+- steps: 100
+- phone_model: Samsung Galaxy S8
+- subject_age: 17
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_hand
+- data_log_freq: 50
+- collection_supervisor: Lance Matt
+- date: 1/10/18
